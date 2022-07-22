@@ -1,0 +1,79 @@
+h1, h2, p {
+	text-align: center;
+	color: #fff
+}
+body {
+	padding: 20px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background: linear-gradient(25deg, #121213 40%, transparent 41%, transparent 59%, #121213 60%)  ,linear-gradient(90deg, transparent 45%, #CEA249 45%, #CEA249 55%, transparent 55%, transparent 20%, #CEA249 20%, #CEA249 30%,transparent 30%) ,linear-gradient(90deg, #CEA249 9%, transparent 10%);
+        background-size: 3em 3em;
+        background-color: #121213;
+        opacity: 1
+}
+.menu {
+	border-radius: 5px;
+	max-width: 500px;
+	width: 80%;
+	background: linear-gradient(rgb(0, 0, 0), rgb(29, 29, 31));
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
+.starting {
+	text-align: left;
+	width: 93%;
+}
+.bench {
+	text-align: left;
+}
+.number {
+	text-align: left;
+	width: 7%;
+}
+.duolist p {
+	font-size: 18px;
+	display: inline-block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+h1, h2 {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.established {
+	font-style: italic;
+}
+h1 {
+	font-size: 40px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+h2 {
+	font-size: 30px;
+}
+hr {
+	height: 2px;
+	background-color: #CEA249;
+	border-color: #CEA249;
+}
+.bottom-line {
+	margin-bottom: 25px;
+}
+/*FOOTER*/
+footer {
+	font-size: 14px;
+}
+a {
+	color: whitesmoke;
+}
+a:visited {
+	color: whitesmoke;
+}
+a:hover {
+	color: #CEA249;
+}
+a:active {
+	color: #CEA249;
+}
+.copyright {
+	margin-bottom: 5px;
+}
