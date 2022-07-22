@@ -22,8 +22,8 @@ To complete the certification, I used the following technologies:
 ## 🗂️ Folders
 Each folder in this repository represents one of the courses of this certification. Further, it has the codes I used to accomplish the certificate (and a little extra 😉). Enjoy!
 
-* [HTML Course](https://github.com/yuri-marinho/Responsive-Web-Design-FCC/tree/main/HTML%20Course);
-* [Basic CSS Course](https://github.com/yuri-marinho/Responsive-Web-Design-FCC/tree/main/Basic%20CSS%20Course);
-* [CSS Colors Course](https://github.com/yuri-marinho/Responsive-Web-Design-FCC/tree/main/CSS%20Colors%20Course);
+* [HTML Course](https://github.com/yuri-marinho/Responsive-Web-Design-Certification/tree/main/HTML%20Course);
+* [Basic CSS Course](https://github.com/yuri-marinho/Responsive-Web-Design-Certification/tree/main/Basic%20CSS%20Course);
+* [CSS Colors Course](https://github.com/yuri-marinho/Responsive-Web-Design-Certification/tree/main/CSS%20Colors%20Course);
 
 ##### <a href="https://github.com/yuri-marinho/">Yuri Marinho</a>.
