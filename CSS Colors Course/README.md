@@ -3,4 +3,4 @@ In this course, I learned different ways to set color values and how to pair col
 By designing a [set of colored markers](https://github.com/yuri-marinho/Responsive-Web-Design-FCC/tree/main/Basic%20CSS%20Course/Cafe%20Menu) with Free Code Camp, I was able to assimilate the different ways to set colors with CSS.
 
 ## 🎖️ Extra
-To boost my learning, I created a new webpage with the concepts I used to build the [set of colored markers](https://github.com/yuri-marinho/Responsive-Web-Design-FCC/tree/main/Basic%20CSS%20Course/Cafe%20Menu). Check it out in the [StartingXI](https://github.com/yuri-marinho/Responsive-Web-Design-FCC/tree/main/Basic%20CSS%20Course/StartingXI) folder!
+
