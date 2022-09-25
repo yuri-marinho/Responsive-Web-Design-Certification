@@ -7,8 +7,9 @@ In order to assimilate the certification, I'm building:
 1. A cat photo app, to learn the basics of HTML; 😺
 2. A menu page for a cafe webpage, to learn the basics of CSS; ☕
 3. A a set of colored markers, to learn different ways to set color values and different ways to pair them; 🖌️
-4. A penguin, to learn modern techniques like CSS variables; 🐧
-5. A quiz site, to learn best practices for accessibility; 🎯
+4. A signup page, to learn how to control what types of data people can type into HTML forms; 📋
+5. A penguin, to learn modern techniques like CSS variables; 🐧
+6. A quiz site, to learn best practices for accessibility; 🎯
 
 Lastly, I'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
