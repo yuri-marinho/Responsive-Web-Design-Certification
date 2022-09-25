@@ -4,10 +4,10 @@ In this [Responsive Web Design Certification](https://www.freecodecamp.org/learn
 ## 🤓 Learnings:
 In order to assimilate the certification, I'm building:
 
-1. A [cat photo app](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/HTML%20Course/CatPhotoApp.html), to learn the basics of HTML; 😺
-2. A [menu page for a cafe webpage](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/Basic%20CSS%20Course/Cafe%20Menu/cafemenu.html), to learn the basics of CSS; ☕
-3. A a set of [colored markers](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/CSS%20Colors%20Course/Colored%20markers/coloredmarkers.html), to learn different ways to set color values and different ways to pair them; 🖌️
-4. A [signup page](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/Registration%20Form%20Course/regis_form.html), to learn how to control what types of data people can type into HTML forms; 📋
+1. A [cat photo app](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/HTML%20Course/CatPhotoApp.html), to learn the basics of HTML; 😺✅
+2. A [menu page for a cafe webpage](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/Basic%20CSS%20Course/Cafe%20Menu/cafemenu.html), to learn the basics of CSS; ☕✅
+3. A a set of [colored markers](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/CSS%20Colors%20Course/Colored%20markers/coloredmarkers.html), to learn different ways to set color values and different ways to pair them; 🖌️✅
+4. A [signup page](https://yuri-marinho.github.io/Responsive-Web-Design-Certification/Registration%20Form%20Course/regis_form.html), to learn how to control what types of data people can type into HTML forms; 📋✅
 5. A penguin, to learn modern techniques like CSS variables; 🐧
 6. A quiz site, to learn best practices for accessibility; 🎯
 
